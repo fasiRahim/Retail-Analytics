@@ -16,4 +16,4 @@ In this project, you will visualize sales data by selecting several dimensions a
 
 ## Demo
 
-[link]    (https://retail-analytics-demo.streamlit.app/)https://retail-analytics-demo.streamlit.app/
+[link](https://retail-analytics-demo.streamlit.app/)https://retail-analytics-demo.streamlit.app/
